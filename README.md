@@ -4,7 +4,7 @@ This program uses machine learning to Track websites visited using Tor.
 
 Although the data is ecnrypted, there are feature engineering techniques that can help in looking for patterns in the packets transmitted.
 
-The code gives around 44% accuracy on the test dataset.
+The code gives around 44% accuracy on the test dataset. (in predicting 10 different websites)
 
 ToDo: We can use Recurrent Neural Networks with LSTM (and other deep learning techniques) to improve the accuracy, which automatically engineer the features. (Will upload this part next week)
 
