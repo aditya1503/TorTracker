@@ -1,5 +1,6 @@
 # TorTracker
-Track websites visited anonymously using Tor
+Track websites visited anonymously using Tor.
+
 This program uses machine learning to Track websites visited using Tor. 
 
 Although the data is ecnrypted, there are feature engineering techniques that can help in looking for patterns in the packets transmitted.
